@@ -51,17 +51,7 @@ We also engineered features like:
 
 - Remaining lease, floor area, and town are strong predictors of price
 - Flats closer to MRT and CBD tend to command higher prices
-- Policy interventions (like TDSR in 2013) caused noticeable inflection points in pricing trends
+- Policy interventions (like SSD in 1996) caused noticeable inflection points in pricing trends
 
 ---
-
-## 🧪 How to Reproduce
-
-1. Clone the repo
-2. Install required packages (see below)
-3. Run the Jupyter notebooks under `/Notebook`
-
-```bash
-pip install -r requirements.txt
-
 
